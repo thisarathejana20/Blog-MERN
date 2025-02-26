@@ -45,7 +45,7 @@ const Homepage = () => {
             </text>
           </svg>
           <button className="absolute top-0 left-0 right-0 bottom-0 m-auto rounded-full flex items-center justify-center">
-            <img src="logo.svg" alt="" />
+            <img src="arrow.svg" alt="arrow" className="h-32 w-32" />
           </button>
         </Link>
       </div>
